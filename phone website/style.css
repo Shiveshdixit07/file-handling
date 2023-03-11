@@ -1,0 +1,141 @@
+body{
+    margin:0;
+    background-color: #ECF2FF;
+    font-family: 'Merriweather', serif;
+}
+.nav{
+    /* width: 40%; */
+    padding: 16px;
+    font-family: 'Montserrat', sans-serif;
+    background: #0F6292;
+    
+}
+.box{
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0 10px;
+    border: solid black 2px;
+    padding: 4px;
+    background-color: #645e5e;
+    border-radius: 5px;
+    color: #fdfdee;
+}
+h1{
+    font-family:  'Sacramento', cursive;
+}
+.welcome{
+    font-size: 35px;
+    text-align: center;
+    color: #65617d;
+    margin: 35px;
+}
+.welcome h1{
+    width: 50%;
+    margin: auto;
+}
+.welcome img{
+    float: left;
+    position: absolute;
+    top: 51px;
+    right: 180px;
+}
+.box:hover{
+    color: black;
+    background-color: white;
+}
+.form1{
+    float: right;
+}
+.select{
+    margin: 5px;
+}
+.intro{
+    margin: 83px 0px;
+}
+.int{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border: solid black 4px;
+    background-color:black ;
+}
+.hori1{
+ height: 2px;
+ background-color: black;
+ transform: rotate(90deg);
+ width: 1000px;
+ position: absolute;
+ top: 716px;
+ left: -280px;
+}
+.hori2{
+ height: 2px;
+ background-color: black;
+ transform: rotate(90deg);
+ width: 50%;
+ position: absolute;
+ top: 716px;
+ right: -160px;
+}
+.ph1{
+   height: 200px;
+}
+.img{
+    width: 14%;
+    height: 500px;
+}
+.phdetails{
+    width: 70%;
+    height: 524px;
+    position: absolute;
+    left: 230px;
+    top: 344px;
+}
+.sell{
+    width: 14%;
+    height: 500px;
+    position: absolute;
+    top: 344px;
+    right: 5px;
+}
+.a1
+{
+    text-decoration: none;
+    border: solid black 2px;
+    padding: 3px;
+    margin: 3px auto;
+    width: 70px;   
+    border-radius: 5px;
+    background-color: rgb(255, 237, 202);
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+.a1:hover{
+    background-color: black;
+    color: white;
+}
+.buy
+{
+    margin-top: 112px;
+    display: flex;
+    flex-direction: column;    
+}
+.buy2
+{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.details{
+    margin-top: 120px;
+}
+.ph2d{
+    margin-top: 200px;
+
+}
